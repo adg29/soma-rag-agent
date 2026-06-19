@@ -1,7 +1,7 @@
 Date: 2024-03-05
 Type: intro-email
-From: aneel@somacap.com
-To: alan@somacap.com
+From: aneel@apexvc.com
+To: alan@apexvc.com
 Subject: Check out Nexus Health - interesting AI diagnostics play
 
 Alan,

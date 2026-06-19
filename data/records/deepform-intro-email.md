@@ -1,12 +1,12 @@
 Date: 2024-05-10
 Type: intro-email
 From: marcus@brightloop.io
-To: alan@somacap.com
-Subject: Intro request: DeepForm <> Soma
+To: alan@apexvc.com
+Subject: Intro request: DeepForm <> Apex
 
 Hey Alan,
 
-One of my YC batchmates is building something that I think is adjacent to Soma's interests. DeepForm builds structured data extraction tools - actually in a similar space to Acme (different approach, different buyers though).
+One of my YC batchmates is building something that I think is adjacent to Apex's interests. DeepForm builds structured data extraction tools - actually in a similar space to Acme (different approach, different buyers though).
 
 Founder is Kai Tanaka (solo founder, technical). Background: ex-OpenAI (worked on the fine-tuning team), then founded and sold a small data annotation shop.
 

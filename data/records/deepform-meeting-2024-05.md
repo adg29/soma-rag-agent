@@ -1,6 +1,6 @@
 Date: 2024-05-22
 Type: meeting-notes
-Attendees: Alan Garcia (Soma), Kai Tanaka (Founder, DeepForm)
+Attendees: Alan Garcia (Apex), Kai Tanaka (Founder, DeepForm)
 Location: Video call
 Introduced by: Marcus Webb (BrightLoop)
 

@@ -1,5 +1,5 @@
 {
-  "name": "soma-rag-agent",
+  "name": "vc-rag-agent",
   "version": "0.1.0",
   "type": "module",
   "imports": {

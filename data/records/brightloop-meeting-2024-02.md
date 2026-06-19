@@ -1,7 +1,7 @@
 Date: 2024-02-28
 Type: meeting-notes
-Attendees: Alan Garcia (Soma), Mir Faiyaz (Soma), Marcus Webb (CEO, BrightLoop), Lena Park (CTO, BrightLoop)
-Location: Soma office, SF
+Attendees: Alan Garcia (Apex), Mir Faiyaz (Apex), Marcus Webb (CEO, BrightLoop), Lena Park (CTO, BrightLoop)
+Location: Apex office, SF
 
 First in-person meeting with BrightLoop.
 

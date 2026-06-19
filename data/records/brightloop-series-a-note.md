@@ -3,7 +3,7 @@ Type: deal-note
 Author: Mir Faiyaz
 Re: BrightLoop Series A - follow-on consideration
 
-BrightLoop is raising a $12M Series A. They've asked if Soma wants to participate pro-rata or lead.
+BrightLoop is raising a $12M Series A. They've asked if Apex wants to participate pro-rata or lead.
 
 Current state (per Q3 update):
 - ARR: $820K (up from $520K in July)
@@ -13,8 +13,8 @@ Current state (per Q3 update):
 
 Proposed A terms:
 - $12M round at $40M pre / $52M post
-- Soma pro-rata: ~$110K based on ownership
-- Soma leading option: $2M for meaningful ownership increase (target ~8% post-A)
+- Apex pro-rata: ~$110K based on ownership
+- Apex leading option: $2M for meaningful ownership increase (target ~8% post-A)
 
 Recommendation: Exercise pro-rata, consider whether to go larger.
 

@@ -1,6 +1,6 @@
 Date: 2024-01-22
 Type: meeting-notes
-Attendees: Alan Garcia (Soma), James Chen (CEO, Acme AI), Priya Nair (CTO, Acme AI)
+Attendees: Alan Garcia (Apex), James Chen (CEO, Acme AI), Priya Nair (CTO, Acme AI)
 Location: Video call
 
 Notes from intro call with Acme AI founders.
