@@ -1,7 +1,7 @@
 Date: 2024-03-05
 Type: intro-email
-From: aneel@apexvc.com
-To: alan@apexvc.com
+From: aneel@asyncvc.com
+To: alan@asyncvc.com
 Subject: Check out Nexus Health - interesting AI diagnostics play
 
 Alan,

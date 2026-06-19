@@ -20,7 +20,7 @@ Risks:
 
 Terms:
 - $3M seed round at $15M pre-money valuation ($18M post)
-- Apex leading with $500K
+- AsyncVC leading with $500K
 - YC standard SAFE terms
 
 Recommendation: Invest. Strong team, real technical differentiation, excellent early traction.

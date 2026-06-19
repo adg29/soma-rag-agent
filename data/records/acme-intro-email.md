@@ -1,8 +1,8 @@
 Date: 2024-01-08
 Type: intro-email
 From: sarah@benchmark.vc
-To: alan@apexvc.com
-Subject: Intro: Acme AI <> Apex Ventures
+To: alan@asyncvc.com
+Subject: Intro: Acme AI <> AsyncVC Ventures
 
 Alan,
 
@@ -17,7 +17,7 @@ Notable customers: Two top-10 hedge funds (can't name them yet), piloting with a
 
 James is a former ML lead at Stripe, Priya built the document pipeline at Scale AI before this. Strong technical founders.
 
-They're raising a $6M Series A to expand the sales team and productize the API. I think Apex is a great fit given your financial services LP base.
+They're raising a $6M Series A to expand the sales team and productize the API. I think AsyncVC is a great fit given your financial services LP base.
 
 Let me know if you'd like a warm intro.
 

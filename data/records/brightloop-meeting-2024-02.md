@@ -1,7 +1,7 @@
 Date: 2024-02-28
 Type: meeting-notes
-Attendees: Alan Garcia (Apex), Mir Faiyaz (Apex), Marcus Webb (CEO, BrightLoop), Lena Park (CTO, BrightLoop)
-Location: Apex office, SF
+Attendees: Alan Garcia (AsyncVC), Mir Faiyaz (AsyncVC), Marcus Webb (CEO, BrightLoop), Lena Park (CTO, BrightLoop)
+Location: AsyncVC office, SF
 
 First in-person meeting with BrightLoop.
 
