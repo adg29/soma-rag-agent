@@ -1,6 +1,6 @@
 {
   "name": "soma-rag-agent",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "imports": {
     "#*": "./agent/*",
@@ -10,13 +10,16 @@
     "build": "eve build",
     "dev": "eve dev",
     "start": "eve start",
-    "typecheck": "tsgo"
+    "typecheck": "tsgo",
+    "index": "node --experimental-strip-types scripts/build-index.ts"
   },
   "dependencies": {
     "@vercel/connect": "0.2.2",
     "ai": "7.0.0-beta.178",
     "eve": "^0.11.6",
-    "zod": "4.4.3"
+    "openai": "^6.44.0",
+    "vectra": "^0.15.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "24.x",
@@ -29,6 +32,6 @@
     "ai": "7.0.0-beta.178"
   },
   "engines": {
-    "node": "24.x"
+    "node": ">=24"
   }
 }
